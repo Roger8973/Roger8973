@@ -1,5 +1,5 @@
 
-Olá, sou o Roger!
+Olá, me chamo Roger!
 
 Bem-vindo ao meu perfil do GitHub, um espaço onde você pode conhecer melhor meu trabalho e minhas contribuições para a comunidade.
 
