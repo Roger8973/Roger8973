@@ -1,9 +1,9 @@
 
-Olá, me chamo Roger!
+Olá, sou Roger!
 
-Bem-vindo ao meu perfil do GitHub, um espaço onde você pode conhecer melhor meu trabalho e minhas contribuições para a comunidade.
+Bem-vindo ao meu repositório no GitHub, uma vitrine do meu trabalho e das minhas contribuições para a comunidade de desenvolvedores.
 
-Atualmente, estou imerso no universo do C#, com um enfoque especial em ASP.NET Core, desenvolvendo aplicações web robustas e inovadoras.
+Trabalho atualmente com C# e ASP.NET Core, onde estou desenvolvendo aplicações web robustas e inovadoras. Acompanhe meus projetos e fique à vontade para interagir!
 
 
 ### Aqui estão algumas das tecnologias das quais tenho experiêcias:
