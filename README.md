@@ -5,6 +5,7 @@ Desenvolvedor back-end sênior .NET (C#), focado em APIs, microsserviços e enge
 Uso IA como parte do processo de engenharia, não só para gerar código. Trabalho com Spec-Driven Development (OpenSpec), Context Engineering, Rules, Skills e MCPs para refatorar legado, fazer code review, padronizar arquitetura e manter a documentação viva.
 
 🔭 Atualmente: APIs e microsserviços para o módulo fiscal (NF-e e tributação)
+
 🧩 Interesses: DDD, Clean Architecture, Vertical Slice, TDD e IA aplicada ao desenvolvimento
 
 ### Stack
