@@ -13,5 +13,5 @@ Uso IA como parte do processo de engenharia, não só para gerar código. Trabal
 
 ### Contato
 
-<a href="www.linkedin.com/in/roger-fraga-716276219" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/roger-fraga-716276219" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:roger.fraga@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
